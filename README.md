@@ -13,6 +13,9 @@ This project provides a comprehensive analysis of customer data to inform and op
 -   **Predictive Modeling:** Build a predictive model to identify customers who are most likely to respond to future marketing campaigns.
 -   **Strategic Recommendations:** Translate data insights into clear, actionable business recommendations for marketing, sales, and product teams.
 
+## 📊 Demo 
+![Alt text](readmeGraphs.png)
+
 ### 3. Methodology
 
 The analysis follows a standard data science pipeline:
