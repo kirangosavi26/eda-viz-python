@@ -47,3 +47,8 @@ This repository is structured to be easily navigable, with all project files and
 -   **Concepts:** Data Exploration, Data Cleaning, Outlier Detection, Feature Engineering, K-Means Clustering, Logistic Regression, Model Evaluation, Data Visualization, Business Storytelling
 
 ---
+## 📬 Contact  
+- [Email](26kirangosavi@gmail.com)
+- LinkedIn: [Kiran Gosavi](https://www.linkedin.com/in/kirangosavi/)
+
+---
