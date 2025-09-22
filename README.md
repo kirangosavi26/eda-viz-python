@@ -48,7 +48,7 @@ This repository is structured to be easily navigable, with all project files and
 
 ---
 ## 📬 Contact  
-- [Email](26kirangosavi@gmail.com)
+- Email: 26kirangosavi@gmail.com
 - LinkedIn: [Kiran Gosavi](https://www.linkedin.com/in/kirangosavi/)
 
 ---
