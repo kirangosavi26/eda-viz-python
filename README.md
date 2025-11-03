@@ -14,7 +14,7 @@ This project provides a comprehensive analysis of customer data to inform and op
 -   **Strategic Recommendations:** Translate data insights into clear, actionable business recommendations for marketing, sales, and product teams.
 
 ## 📊 Demo 
-[View the full project PPT)](Presentation%20Slides_EDA.pdf)
+[View Full Project PPT](Presentation%20Slides_EDA.pdf)
 ![Alt text](readmeGraphs.png)
 
 ### 3. Methodology
